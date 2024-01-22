@@ -1,4 +1,4 @@
-#Ohjelmisto_1_Metropolia_School
+# Ohjelmisto_1_Metropolia_School
 
 This is my repository of Python Programming 1 course from my school (Metropolia) that I am going throw.
 
